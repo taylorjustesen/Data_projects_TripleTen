@@ -4,7 +4,7 @@ Projects I worked on while attending the Business Intelligence Analytics TripleT
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Airbnb Analysis| The project task was to analyze popularity in New York City neighborhoods via reviews, property sizes and revenue. |
-| 2 | [Business Analytics](https://github.com/taylorjustesen/Data_projects_TripleTen/blob/main/Business%20Analytics%20Project.xlsx) | The project task was to analyze conversion rates and total conversion rates between phases customers progress through. |
+| 1 | [Airbnb Analysis](https://github.com/taylorjustesen/Data_projects_TripleTen/tree/main/Airbnb)| The project task was to analyze popularity in New York City neighborhoods via reviews, property sizes and revenue. |
+| 2 | [Business Analytics](https://github.com/taylorjustesen/Data_projects_TripleTen/tree/main/Business%20Analytics) | The project task was to analyze conversion rates and total conversion rates between phases customers progress through. |
 | 3 | Monitoring Returns | The project task was to convert data into visualizations in Tableau to better understand current return rates. |
 
